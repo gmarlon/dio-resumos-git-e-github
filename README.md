@@ -16,4 +16,5 @@ O que você aprendeu construindo esse projeto? Quais desafios você enfrentou e 
 
 ## Editado
 
-Isso aqui é novo ta?
+Isso aqui é novo ta? e como ta?
+
